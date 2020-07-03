@@ -1,0 +1,13 @@
+C:\Users\Varvodic\AppData\Local\Temporary Projects\seminarTM\bin\Debug\seminarTM.exe
+C:\Users\Varvodic\AppData\Local\Temporary Projects\seminarTM\bin\Debug\seminarTM.pdb
+C:\Users\Varvodic\AppData\Local\Temporary Projects\seminarTM\obj\x86\Debug\MainWindow.baml
+C:\Users\Varvodic\AppData\Local\Temporary Projects\seminarTM\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Varvodic\AppData\Local\Temporary Projects\seminarTM\obj\x86\Debug\App.g.cs
+C:\Users\Varvodic\AppData\Local\Temporary Projects\seminarTM\obj\x86\Debug\seminarTM_MarkupCompile.cache
+C:\Users\Varvodic\AppData\Local\Temporary Projects\seminarTM\obj\x86\Debug\seminarTM.g.resources
+C:\Users\Varvodic\AppData\Local\Temporary Projects\seminarTM\obj\x86\Debug\seminarTM.Properties.Resources.resources
+C:\Users\Varvodic\AppData\Local\Temporary Projects\seminarTM\obj\x86\Debug\seminarTM.csproj.GenerateResource.Cache
+C:\Users\Varvodic\AppData\Local\Temporary Projects\seminarTM\obj\x86\Debug\seminarTM.exe
+C:\Users\Varvodic\AppData\Local\Temporary Projects\seminarTM\obj\x86\Debug\seminarTM.pdb
+C:\Users\Varvodic\AppData\Local\Temporary Projects\seminarTM\obj\x86\Debug\Window1.baml
+C:\Users\Varvodic\AppData\Local\Temporary Projects\seminarTM\obj\x86\Debug\Window1.g.cs

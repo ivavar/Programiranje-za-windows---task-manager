@@ -1,0 +1,14 @@
+C:\Users\Varvodic\Documents\Visual Studio 2010\Projects\seminarTM1\seminarTM1\bin\Debug\seminarTM1.exe
+C:\Users\Varvodic\Documents\Visual Studio 2010\Projects\seminarTM1\seminarTM1\bin\Debug\seminarTM1.pdb
+C:\Users\Varvodic\Documents\Visual Studio 2010\Projects\seminarTM1\seminarTM1\obj\x86\Debug\MainWindow.baml
+C:\Users\Varvodic\Documents\Visual Studio 2010\Projects\seminarTM1\seminarTM1\obj\x86\Debug\Window1.baml
+C:\Users\Varvodic\Documents\Visual Studio 2010\Projects\seminarTM1\seminarTM1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Varvodic\Documents\Visual Studio 2010\Projects\seminarTM1\seminarTM1\obj\x86\Debug\Window1.g.cs
+C:\Users\Varvodic\Documents\Visual Studio 2010\Projects\seminarTM1\seminarTM1\obj\x86\Debug\App.g.cs
+C:\Users\Varvodic\Documents\Visual Studio 2010\Projects\seminarTM1\seminarTM1\obj\x86\Debug\seminarTM1_MarkupCompile.cache
+C:\Users\Varvodic\Documents\Visual Studio 2010\Projects\seminarTM1\seminarTM1\obj\x86\Debug\seminarTM1.g.resources
+C:\Users\Varvodic\Documents\Visual Studio 2010\Projects\seminarTM1\seminarTM1\obj\x86\Debug\seminarTM.Properties.Resources.resources
+C:\Users\Varvodic\Documents\Visual Studio 2010\Projects\seminarTM1\seminarTM1\obj\x86\Debug\seminarTM1.csproj.GenerateResource.Cache
+C:\Users\Varvodic\Documents\Visual Studio 2010\Projects\seminarTM1\seminarTM1\obj\x86\Debug\seminarTM1.exe
+C:\Users\Varvodic\Documents\Visual Studio 2010\Projects\seminarTM1\seminarTM1\obj\x86\Debug\seminarTM1.pdb
+C:\Users\Varvodic\Documents\Visual Studio 2010\Projects\seminarTM1\seminarTM1\bin\Debug\seminarTM1.exe.config
